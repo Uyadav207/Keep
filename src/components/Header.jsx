@@ -1,13 +1,17 @@
 import React from "react";
-import EventNoteIcon from "@material-ui/icons/EventNote";
-
+import AssignmentIcon from '@material-ui/icons/Assignment';
 function Header() {
   return (
     <header>
       <h1>
-        <EventNoteIcon />
-        Note Keeper
+        <AssignmentIcon 
+        fontSize={'large'}
+        color={'accent'}
+          
+        />    Keep
+           
       </h1>
+    
     </header>
   );
 }
