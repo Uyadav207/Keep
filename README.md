@@ -1,2 +1,6 @@
 # Keep
-A Note Keeper Application --- Same as Google Keep
+A Note Keeper Application Made with ReactJs
+
+# Deployement
+
+The App is Deployed on netlify.app/
